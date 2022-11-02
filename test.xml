@@ -1,0 +1,16 @@
+<records xmlns="urn:nbn:se:uu:ub:epc-schema:rs-location-mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:nbn:se:uu:ub:epc-schema:rs-location-mapping http://urn.kb.se/resolve?urn=urn:nbn:se:uu:ub:epc-schema:rs-location-mapping&godirectly">
+<protocol-version>3.0</protocol-version>
+<datestamp type="modified">2014-12-10T13:30:00Z</datestamp>
+<record>
+<header>
+<datestamp type="modified">2009-07-13T13:00:00Z</datestamp>
+<identifier>urn:nbn:fi-fe20021476</identifier>
+<destinations>
+<destination status="activated">
+<datestamp type="activated"/>
+<url>https://extra.kansalliskirjasto.fi/tietolinja/0103/kopioluettelointi.html</url>
+</destination>
+</destinations>
+</header>
+</record>
+</records>
